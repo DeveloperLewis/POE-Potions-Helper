@@ -1,15 +1,12 @@
 ﻿
-#Change the ` to whatever you want it binded to. For example f12, or END, etc.. !!Don't get rid of the :: as this is part of AHK.!!
 
 `::Suspend
 
 
-#You can change the bound button to trigger the 1-5 here. !!Don't get rid of the :: as this is part of AHK.!!
+
 
 space::
 
-
-#Here you can tweak the last 2 numbers to whatever you feel is best. Optimal setup is to put your defensive potions that you need the most on the first 2 slots. As these are used almost instantly. 1000 is 1 second. 
 
 Random, delay1, 1, 2
 sleep, delay1
