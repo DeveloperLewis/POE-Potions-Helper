@@ -1,4 +1,7 @@
 # POE Potions Helper
+
+REQUIRES AUTOHOT KEY TO BE INSTALLED. YOU CAN DOWNLOAD IT HERE https://www.autohotkey.com/
+
  A small script to help with pressing 1-5. Without getting carpal tunnel.
 
  Feel free to edit to your own liking. The slower the less likely you are to be banned. Which is extremely low, I have been using this script for many years. 
